@@ -3,8 +3,8 @@ class Ghostcfg < Formula
 
   desc "Interactive TUI for Ghostty terminal configuration"
   homepage "https://github.com/samkleespies/ghostcfg"
-  url "https://files.pythonhosted.org/packages/09/63/40226ec369c392fd22936ed83470bb027e2352750b4bb16fb510c7d362ac/ghostcfg-0.1.2.tar.gz"
-  sha256 "ce21d0e2a5ef5acdd316a1e84073dfd291c653a8722bc7cfb76e35d17ff2427c"
+  url "https://files.pythonhosted.org/packages/21/bc/14227a8ec0d1718bddec6d6c066661d6ca5c820e2042dac9212e381a48a0/ghostcfg-0.1.3.tar.gz"
+  sha256 "504fdd57876655d2b2fce09550ef599b385b72077c80663c33b7a09ade8ea227"
   license "MIT"
 
   depends_on "python@3.12"
